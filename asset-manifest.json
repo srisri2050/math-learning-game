@@ -1,15 +1,20 @@
 {
   "files": {
     "main.css": "/math-learning-game/static/css/main.e6c13ad2.css",
-    "main.js": "/math-learning-game/static/js/main.cbff18dd.js",
+    "main.js": "/math-learning-game/static/js/main.2aca8b05.js",
+    "static/js/885.6d097947.chunk.js": "/math-learning-game/static/js/885.6d097947.chunk.js",
     "static/js/488.42152a89.chunk.js": "/math-learning-game/static/js/488.42152a89.chunk.js",
+    "static/media/gameover.mp3": "/math-learning-game/static/media/gameover.6f4970801eff9ccd8a97.mp3",
+    "static/media/wrong.mp3": "/math-learning-game/static/media/wrong.aed02e6522662213469b.mp3",
+    "static/media/correct.mp3": "/math-learning-game/static/media/correct.1dd2eda18e900449e771.mp3",
     "index.html": "/math-learning-game/index.html",
     "main.e6c13ad2.css.map": "/math-learning-game/static/css/main.e6c13ad2.css.map",
-    "main.cbff18dd.js.map": "/math-learning-game/static/js/main.cbff18dd.js.map",
+    "main.2aca8b05.js.map": "/math-learning-game/static/js/main.2aca8b05.js.map",
+    "885.6d097947.chunk.js.map": "/math-learning-game/static/js/885.6d097947.chunk.js.map",
     "488.42152a89.chunk.js.map": "/math-learning-game/static/js/488.42152a89.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.cbff18dd.js"
+    "static/js/main.2aca8b05.js"
   ]
 }
